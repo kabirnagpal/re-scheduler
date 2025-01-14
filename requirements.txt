@@ -9,7 +9,6 @@ charset-normalizer
 click
 et-xmlfile
 gitdb
-GitPython3
 idna
 Jinja2
 jsonschema
