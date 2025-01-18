@@ -46,3 +46,4 @@ tzdata
 urllib3
 watchdog
 wheel
+seaborn
